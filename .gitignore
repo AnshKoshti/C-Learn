@@ -9,3 +9,6 @@
 
 # Whitelist the .gitignore file itself
 !.gitignore
+
+# README.
+!README.md
