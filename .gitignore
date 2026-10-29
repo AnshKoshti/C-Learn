@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Whitelist directories so Git can look inside them for .c files
+!*/
+
+# Whitelist all .c files anywhere in the tree
+!*.c
+
+# Whitelist the .gitignore file itself
+!.gitignore
