@@ -7,6 +7,9 @@
 # Whitelist all .c files anywhere in the tree
 !*.c
 
+# Whitelist all .h files anywhere in the tree
+!*.h
+
 # Whitelist the .gitignore file itself
 !.gitignore
 
